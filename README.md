@@ -9,7 +9,7 @@ Installation :
     
 Usage : 
 
-    Dans votre terminale, du n'importe quel repertoire :
+    Dans votre terminale, du puis n'importe quel repertoire :
         mondrian
         
 Easy to use & Have fun =)
